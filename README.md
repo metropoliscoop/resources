@@ -23,9 +23,12 @@ I hope you find it useful!
 - [Awesome Bots](https://github.com/invocable/awesome-bots)
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+- [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+- [Awesome ESLint](https://github.com/dustinspecker/awesome-eslint)
 
 - [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack)
@@ -38,12 +41,15 @@ I hope you find it useful!
   
 - [Awesome Nginx](https://github.com/fcambus/nginx-resources)
   
+- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Awesome API](https://github.com/TonnyL/Awesome_APIs)
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
   
 - [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+
+- [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
   
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
