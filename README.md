@@ -10,4 +10,5 @@ I hope you find it useful!
 
 ## Awesome Lists
 
-(https://github.com/sindresorhus/awesome)
+* [All Awesome Lists](https://github.com/sindresorhus/awesome)
+* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
