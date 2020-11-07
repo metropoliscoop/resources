@@ -1,9 +1,13 @@
 # Resources I use :grin:
 
-Wow! this is my personal list of resources I use for design, web programming and many other things, I hope you find it useful!
+Wow! This is my personal list of resources that I use for design, web programming and many other things, I'll try not to extend it, but it's unlikely.
+
+I hope you find it useful!
 
 ## Index
 
-0. [Awesome Lists]()
+0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
 
 ## Awesome Lists
+
+(https://github.com/sindresorhus/awesome)
