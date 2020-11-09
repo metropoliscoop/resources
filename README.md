@@ -7,17 +7,17 @@ I hope you find it useful!
 ## Index
 
 0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
-1. [Interviews]()
-2. [Tools]()
-3. [SO & Terminal]()
-4. [Design Patterns]()
-5. [HTML]()
-6. [CSS]()
-7. [Javascript]()
-8. [Frontend]()
-9. [Backend]()
-10. [Data Bases]()
-11. [Design]()
+1. [Interviews](https://github.com/ansango/resources#interviews)
+2. [Tools](https://github.com/ansango/resources#tools)
+3. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
+4. [Design Patterns](https://github.com/ansango/resources#design-patterns)
+5. [HTML](https://github.com/ansango/resources#html)
+6. [CSS](https://github.com/ansango/resources#css)
+7. [Javascript](https://github.com/ansango/resources#javascript)
+8. [Frontend](https://github.com/ansango/resources#frontend)
+9. [Backend](https://github.com/ansango/resources#backend)
+10. [Databases](https://github.com/ansango/resources#databasess)
+11. [Design](https://github.com/ansango/resources#design)
 
 ## Awesome Lists
 
@@ -92,5 +92,5 @@ I hope you find it useful!
 ## Javascript
 ## Frontend
 ## Backend
-## Data Bases
+## Databases
 ## Design
