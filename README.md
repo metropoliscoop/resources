@@ -6,22 +6,22 @@ I hope you find it useful!
 
 # Index :bookmark_tabs:
 
-0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists) :dark_sunglasses:
-1. [Interviews](https://github.com/ansango/resources#interviews)
-2. [Student](https://github.com/ansango/resources#student)
-3. [Tools](https://github.com/ansango/resources#tools)
-4. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
-5. [Design Patterns](https://github.com/ansango/resources#design-patterns)
-6. [HTML](https://github.com/ansango/resources#html)
-7. [CSS](https://github.com/ansango/resources#css)
-8. [Javascript](https://github.com/ansango/resources#javascript)
-9. [Frontend](https://github.com/ansango/resources#frontend)
-10. [Backend](https://github.com/ansango/resources#backend)
-11. [Databases](https://github.com/ansango/resources#databasess)
-12. [Deploying](https://github.com/ansango/resources#deploying)
-13. [Design](https://github.com/ansango/resources#design)
+1. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
+2. [Interviews](https://github.com/ansango/resources#interviews)
+3. [Student](https://github.com/ansango/resources#student)
+4. [Tools](https://github.com/ansango/resources#tools)
+5. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
+6. [Design Patterns](https://github.com/ansango/resources#design-patterns)
+7. [HTML](https://github.com/ansango/resources#html)
+8. [CSS](https://github.com/ansango/resources#css)
+9. [Javascript](https://github.com/ansango/resources#javascript)
+10. [Frontend](https://github.com/ansango/resources#frontend)
+11. [Backend](https://github.com/ansango/resources#backend)
+12. [Databases](https://github.com/ansango/resources#databasess)
+13. [Deploying](https://github.com/ansango/resources#deploying)
+14. [Design](https://github.com/ansango/resources#design)
 
-# :dark_sunglasses: Awesome Lists 
+# :dark_sunglasses: Awesome Lists
 
 - [All Awesome Lists](https://github.com/sindresorhus/awesome)
 
@@ -85,12 +85,12 @@ I hope you find it useful!
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
-# Interviews :computer:
+# :computer: Interviews
 
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-# Student :books:
+# :books: Student
 
 - [Awesome Resoruces for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
@@ -108,7 +108,7 @@ I hope you find it useful!
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Flavio Copes](https://flaviocopes.com/)
 
-# Tools :wrench:
+# :wrench: Tools
 
 - [Awesome GIT](https://github.com/dictcp/awesome-git)
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
@@ -183,8 +183,7 @@ I hope you find it useful!
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-
-# SO & Terminal :keyboard:
+# :keyboard: SO & Terminal 
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
@@ -204,13 +203,13 @@ I hope you find it useful!
   - [Wireless restore](https://askubuntu.com/questions/1182722/intel-wireless-ac-9462-not-working-w-18-04-lts)
   - [Touchpad restore](https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver)
 
-# Design Patterns :tokyo_tower:
+# :tokyo_tower: Design Patterns 
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-# HTML :spider_web:
+# :spider_web: HTML 
 
 - [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 
@@ -218,7 +217,7 @@ I hope you find it useful!
 
   - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
-# CSS :art:
+# :art: CSS 
 
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
@@ -257,7 +256,7 @@ I hope you find it useful!
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-# Javascript :spades:
+# :spades: Javascript 
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -338,7 +337,7 @@ I hope you find it useful!
 
   - [JS the Right Way](https://jstherightway.org/es-es/)
 
-# Frontend :hearts:
+# :hearts: Frontend
 
 - [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
@@ -376,7 +375,7 @@ I hope you find it useful!
   - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
   - [Nuxt JS](https://nuxtjs.org/)
 
-# Backend :clubs:
+# :clubs: Backend 
 
 - [Awesome Nginx](https://github.com/fcambus/nginx-resources)
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
@@ -385,7 +384,7 @@ I hope you find it useful!
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
-# Databases :diamonds:
+# :diamonds: Databases
 
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
@@ -395,7 +394,7 @@ I hope you find it useful!
 
 - [Install MongoDB Ubuntu 20](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-es)
 
-# Deploying :rocket:
+# :rocket: Deploying 
 
 - [Github Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
@@ -403,7 +402,7 @@ I hope you find it useful!
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 - [NGINX Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-18-04)
 
-# Design & Media :framed_picture:
+# :framed_picture: Design & Media
 
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
