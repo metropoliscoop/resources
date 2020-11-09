@@ -6,7 +6,7 @@ I hope you find it useful!
 
 ## Index
 
-0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
+0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists) :dark_sunglasses:
 1. [Interviews](https://github.com/ansango/resources#interviews)
 2. [Student](https://github.com/ansango/resources#student)
 3. [Tools](https://github.com/ansango/resources#tools)
@@ -21,7 +21,7 @@ I hope you find it useful!
 12. [Deploying](https://github.com/ansango/resources#deploying)
 13. [Design](https://github.com/ansango/resources#design)
 
-## Awesome Lists
+## Awesome Lists :dark_sunglasses:
 
 - [All Awesome Lists](https://github.com/sindresorhus/awesome)
 
