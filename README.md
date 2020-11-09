@@ -93,6 +93,13 @@ I hope you find it useful!
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Awesome Bots](https://github.com/invocable/awesome-bots)
+- 
+## Tools
+
+- [Awesome GIT](https://github.com/dictcp/awesome-git)
+- [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
+- [Awesome Bots](https://github.com/invocable/awesome-bots)
 
   ### GIT
 
