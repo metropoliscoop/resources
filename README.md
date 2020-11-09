@@ -199,6 +199,11 @@ I hope you find it useful!
 
   - [Terminal for beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
+  ### Ubuntu
+
+  - [Wireless restore](https://askubuntu.com/questions/1182722/intel-wireless-ac-9462-not-working-w-18-04-lts)
+  - [Touchpad restore](https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver)
+
 ## Design Patterns
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
