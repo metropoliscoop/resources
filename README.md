@@ -31,6 +31,7 @@ I hope you find it useful!
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 
 - [Awesome GIT](https://github.com/dictcp/awesome-git)
+- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics)
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Awesome Bots](https://github.com/invocable/awesome-bots)
@@ -105,6 +106,24 @@ I hope you find it useful!
 
   - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
+  ### Performance
+
+  - [Why does speed matter?](https://web.dev/why-speed-matters/)
+  - [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
+  - [Auditing Performance](https://developers.google.com/web/fundamentals/performance/audit/)
+  - [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+  - [How a web pageis loaded and displayed](https://varvy.com/pagespeed/display.html)
+  - [Render-tree Construction, Layout, and Paint](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+  - [User-centric performance metrics](https://web.dev/user-centric-performance-metrics/)
+  - [Network Monitor](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
+  - [Network request list](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor/request_list)
+  - [Constructing the Object Model](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model)
+  - [How browser rendering works](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10/)
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+  - [About PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about)
+  - [Throttling](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor/Throttling)
+  - [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics)
+
 ## SO & Terminal
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
@@ -115,6 +134,8 @@ I hope you find it useful!
 ## Design Patterns
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+- [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## HTML
 
@@ -134,6 +155,9 @@ I hope you find it useful!
 
   - [PostCSS](https://github.com/postcss/postcss)
   - [Autoprefixer](https://github.com/postcss/autoprefixer)
+  - [Introduction to PostCSS](https://www.sitepoint.com/an-introduction-to-postcss/)
+  - [Introduction to Autoprefixer](https://css-tricks.com/autoprefixer/)
+  - [Autoprefixer Online](https://autoprefixer.github.io/)
 
   ### Browserling
 
@@ -154,6 +178,14 @@ I hope you find it useful!
 
   - [Babel](https://babeljs.io/)
 
+  ### Jest
+
+  - [Jest](https://jestjs.io/docs/en/getting-started)
+
+  ### Mocha
+
+  - [Mocha](https://mochajs.org/)
+
   ### Browserlist
 
   - [Browserlist](https://github.com/browserslist/browserslist)
@@ -164,6 +196,14 @@ I hope you find it useful!
   - [Repl](https://repl.it/)
   - [Codepen](https://codepen.io/)
 
+  ### Books:
+
+  - [Eloquent Javascript](https://eloquentjs-es.thedojo.mx/)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  - [The Modern Javascript Tutorial](https://javascript.info/)
+  - [The Definitive Guide: Javascript](https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Definitive-Guide-6th-Edition.pdf)
+
 ## Frontend
 
 - [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -173,6 +213,13 @@ I hope you find it useful!
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
+  ### Parcel
+
+  - [Parcel](https://parceljs.org/getting_started.html)
+  - [Parcel + PostCSS](https://parceljs.org/css.html#postcss)
+  - [Parcel + Vue](https://www.digitalocean.com/community/tutorials/vuejs-vue-parceljs)
+  - [Parcel Tutorial](https://www.digitalocean.com/community/tutorials/tooling-parcel)
 
 ## Backend
 
@@ -208,7 +255,7 @@ I hope you find it useful!
   - [SVG - MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)
   - [Optimize images - Google](https://web.dev/fast/#optimize-your-images)
   - [Best image format](https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg)
-  
+
   ### Illustrations
 
   - [unDraw](https://undraw.co/)
