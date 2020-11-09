@@ -4,12 +4,12 @@ Wow! This is my personal list of resources that I use for design, web programmin
 
 I hope you find it useful!
 
-## Index :bookmark_tabs:
+# Index :bookmark_tabs:
 
 0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists) :dark_sunglasses:
-1. [Interviews](https://github.com/ansango/resources#interviews) :computer:
-2. [Student](https://github.com/ansango/resources#student) :books:
-3. [Tools](https://github.com/ansango/resources#tools) :wrench:
+1. [Interviews](https://github.com/ansango/resources#interviews)
+2. [Student](https://github.com/ansango/resources#student)
+3. [Tools](https://github.com/ansango/resources#tools)
 4. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
 5. [Design Patterns](https://github.com/ansango/resources#design-patterns)
 6. [HTML](https://github.com/ansango/resources#html)
@@ -21,7 +21,7 @@ I hope you find it useful!
 12. [Deploying](https://github.com/ansango/resources#deploying)
 13. [Design](https://github.com/ansango/resources#design)
 
-## Awesome Lists :dark_sunglasses:
+# Awesome Lists :dark_sunglasses:
 
 - [All Awesome Lists](https://github.com/sindresorhus/awesome)
 
@@ -85,7 +85,7 @@ I hope you find it useful!
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
-## Interviews :computer:
+# Interviews :computer:
 
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
