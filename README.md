@@ -17,7 +17,8 @@ I hope you find it useful!
 8. [Frontend](https://github.com/ansango/resources#frontend)
 9. [Backend](https://github.com/ansango/resources#backend)
 10. [Databases](https://github.com/ansango/resources#databasess)
-11. [Design](https://github.com/ansango/resources#design)
+11. [Deploying](https://github.com/ansango/resources#deploying)
+12. [Design](https://github.com/ansango/resources#design)
 
 ## Awesome Lists
 
@@ -100,6 +101,10 @@ I hope you find it useful!
   - [Bitbucket](https://bitbucket.org/)
   - [Gitlab](https://about.gitlab.com/)
 
+  ### Firefox Developer Edition
+
+  - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+
 ## SO & Terminal
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
@@ -130,6 +135,10 @@ I hope you find it useful!
   - [PostCSS](https://github.com/postcss/postcss)
   - [Autoprefixer](https://github.com/postcss/autoprefixer)
 
+  ### Browserling
+
+  - [Browserling](https://www.browserling.com/)
+
 ## Javascript
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
@@ -148,8 +157,9 @@ I hope you find it useful!
   ### Browserlist
 
   - [Browserlist](https://github.com/browserslist/browserslist)
- 
+
   ### Sandbox
+
   - [CodeSandBox](https://codesandbox.io/)
   - [Repl](https://repl.it/)
   - [Codepen](https://codepen.io/)
@@ -180,7 +190,25 @@ I hope you find it useful!
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 
-## Design
+## Deploying
+
+- [Github Pages](https://pages.github.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://app.netlify.com/)
+
+## Design & Media
 
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
+
+  ### Images
+
+  - [Responsive Images - 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+  - [Responsive Images - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+  - [SVG - MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)
+  - [Optimize images - Google](https://web.dev/fast/#optimize-your-images)
+  - [Best image format](https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg)
+  
+  ### Illustrations
+
+  - [unDraw](https://undraw.co/)
