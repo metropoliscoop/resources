@@ -130,7 +130,7 @@ I hope you find it useful!
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  
+
   ### Bash
 
   - [The Bash Guide](https://guide.bash.academy/)
@@ -178,9 +178,22 @@ I hope you find it useful!
 - [Awesome Javascript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
 - [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Awesome JQuery](https://github.com/petk/awesome-jquery)
+- [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 - [Awesome Typescript](https://github.com/dzharii/awesome-typescript)
 - [Awesome Javascript Testing](https://github.com/MarcL/awesome-javascript-testing)
 - [Awesome Jest](https://github.com/jest-community/awesome-jest)
+
+  ### NPM
+
+  - [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
+  - [About NPM](https://docs.npmjs.com/about-npm)
+  - [About packages and modules](https://docs.npmjs.com/about-packages-and-modules)
+  - [Create a package.json](https://docs.npmjs.com/creating-a-package-json-file)
+  - [Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+  - [Uninstalling packages and dependencies](https://docs.npmjs.com/uninstalling-packages-and-dependencies)
+  - [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
+  - [NPX](https://github.com/zkat/npx)
+  - [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/)
 
   ### Babel
 
@@ -188,6 +201,7 @@ I hope you find it useful!
 
   ### Jest
 
+  - [Awesome Jest](https://github.com/jest-community/awesome-jest)
   - [Jest](https://jestjs.io/docs/en/getting-started)
 
   ### Mocha
@@ -197,7 +211,7 @@ I hope you find it useful!
   ### Browserlist
 
   - [Browserlist](https://github.com/browserslist/browserslist)
-  
+
   ### Regex
 
   - [RegExr](https://regexr.com/)
@@ -240,7 +254,6 @@ I hope you find it useful!
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Awesome API](https://github.com/TonnyL/Awesome_APIs)
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
-- [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
