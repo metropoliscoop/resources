@@ -97,7 +97,7 @@ I hope you find it useful!
 
   ## University
 
-  - [UOC](https://cv.uoc.edu/webapps/cas/login?service=http://cv.uoc.edu/cgibin/ uocapp)
+  - [UOC](https://cv.uoc.edu/webapps/cas/login?service=http://cv.uoc.edu/cgibin/uocapp)
 
   ## Library resources
 
