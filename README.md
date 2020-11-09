@@ -4,12 +4,12 @@ Wow! This is my personal list of resources that I use for design, web programmin
 
 I hope you find it useful!
 
-## Index
+## Index :bookmark_tabs:
 
 0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists) :dark_sunglasses:
-1. [Interviews](https://github.com/ansango/resources#interviews)
-2. [Student](https://github.com/ansango/resources#student)
-3. [Tools](https://github.com/ansango/resources#tools)
+1. [Interviews](https://github.com/ansango/resources#interviews) :computer:
+2. [Student](https://github.com/ansango/resources#student) :books:
+3. [Tools](https://github.com/ansango/resources#tools) :wrench:
 4. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
 5. [Design Patterns](https://github.com/ansango/resources#design-patterns)
 6. [HTML](https://github.com/ansango/resources#html)
@@ -85,12 +85,12 @@ I hope you find it useful!
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
-## Interviews
+## Interviews :computer:
 
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-## Student
+## Student :books:
 
 - [Awesome Resoruces for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
@@ -108,7 +108,7 @@ I hope you find it useful!
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Flavio Copes](https://flaviocopes.com/)
 
-## Tools
+## Tools :wrench:
 
 - [Awesome GIT](https://github.com/dictcp/awesome-git)
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
@@ -184,7 +184,7 @@ I hope you find it useful!
   - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 
-## SO & Terminal
+## SO & Terminal :keyboard:
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
@@ -204,13 +204,13 @@ I hope you find it useful!
   - [Wireless restore](https://askubuntu.com/questions/1182722/intel-wireless-ac-9462-not-working-w-18-04-lts)
   - [Touchpad restore](https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver)
 
-## Design Patterns
+## Design Patterns :tokyo_tower:
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-## HTML
+## HTML :spider_web:
 
 - [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 
@@ -218,7 +218,7 @@ I hope you find it useful!
 
   - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
-## CSS
+## CSS :art:
 
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
@@ -257,7 +257,7 @@ I hope you find it useful!
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-## Javascript
+## Javascript :spades:
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -338,7 +338,7 @@ I hope you find it useful!
 
   - [JS the Right Way](https://jstherightway.org/es-es/)
 
-## Frontend
+## Frontend :hearts:
 
 - [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
@@ -376,7 +376,7 @@ I hope you find it useful!
   - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
   - [Nuxt JS](https://nuxtjs.org/)
 
-## Backend
+## Backend :clubs:
 
 - [Awesome Nginx](https://github.com/fcambus/nginx-resources)
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
@@ -385,7 +385,7 @@ I hope you find it useful!
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
-## Databases
+## Databases :diamonds:
 
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
@@ -395,7 +395,7 @@ I hope you find it useful!
 
 - [Install MongoDB Ubuntu 20](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-es)
 
-## Deploying
+## Deploying :rocket:
 
 - [Github Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
@@ -403,7 +403,7 @@ I hope you find it useful!
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 - [NGINX Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-18-04)
 
-## Design & Media
+## Design & Media :framed_picture:
 
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
