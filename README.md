@@ -6,20 +6,20 @@ I hope you find it useful!
 
 # Index :bookmark_tabs:
 
-1. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
-2. [Interviews](https://github.com/ansango/resources#interviews)
-3. [Student](https://github.com/ansango/resources#student)
-4. [Tools](https://github.com/ansango/resources#tools)
-5. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
-6. [Design Patterns](https://github.com/ansango/resources#design-patterns)
-7. [HTML](https://github.com/ansango/resources#html)
-8. [CSS](https://github.com/ansango/resources#css)
-9. [Javascript](https://github.com/ansango/resources#javascript)
-10. [Frontend](https://github.com/ansango/resources#frontend)
-11. [Backend](https://github.com/ansango/resources#backend)
-12. [Databases](https://github.com/ansango/resources#databasess)
-13. [Deploying](https://github.com/ansango/resources#deploying)
-14. [Design](https://github.com/ansango/resources#design)
+1. [Awesome Lists](https://github.com/ansango/resources#dark_sunglasses-awesome-lists)
+2. [Interviews](https://github.com/ansango/resources#computer-interviews)
+3. [Student](https://github.com/ansango/resources#books-student)
+4. [Tools](https://github.com/ansango/resources#wrench-tools)
+5. [SO & Terminal](https://github.com/ansango/resources#keyboard-so--terminal)
+6. [Design Patterns](https://github.com/ansango/resources#tokyo_tower-design-patterns)
+7. [HTML](https://github.com/ansango/resources#spider_web-html)
+8. [CSS](https://github.com/ansango/resources#art-css)
+9. [Javascript](https://github.com/ansango/resources#spades-javascript)
+10. [Frontend](https://github.com/ansango/resources#hearts-frontend)
+11. [Backend](https://github.com/ansango/resources#clubs-backend)
+12. [Databases](https://github.com/ansango/resources#diamonds-databases)
+13. [Deploying](https://github.com/ansango/resources#rocket-deploying)
+14. [Design](https://github.com/ansango/resources#framed_picture-design--media)
 
 # :dark_sunglasses: Awesome Lists
 
@@ -183,7 +183,7 @@ I hope you find it useful!
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-# :keyboard: SO & Terminal 
+# :keyboard: SO & Terminal
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
@@ -203,13 +203,13 @@ I hope you find it useful!
   - [Wireless restore](https://askubuntu.com/questions/1182722/intel-wireless-ac-9462-not-working-w-18-04-lts)
   - [Touchpad restore](https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver)
 
-# :tokyo_tower: Design Patterns 
+# :tokyo_tower: Design Patterns
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-# :spider_web: HTML 
+# :spider_web: HTML
 
 - [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 
@@ -217,7 +217,7 @@ I hope you find it useful!
 
   - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
-# :art: CSS 
+# :art: CSS
 
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
@@ -256,7 +256,7 @@ I hope you find it useful!
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-# :spades: Javascript 
+# :spades: Javascript
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -375,7 +375,7 @@ I hope you find it useful!
   - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
   - [Nuxt JS](https://nuxtjs.org/)
 
-# :clubs: Backend 
+# :clubs: Backend
 
 - [Awesome Nginx](https://github.com/fcambus/nginx-resources)
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
@@ -390,11 +390,11 @@ I hope you find it useful!
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 
-## MongoDB
+  ## MongoDB
 
-- [Install MongoDB Ubuntu 20](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-es)
+  - [Install MongoDB Ubuntu 20](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-es)
 
-# :rocket: Deploying 
+# :rocket: Deploying
 
 - [Github Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
@@ -410,7 +410,6 @@ I hope you find it useful!
   ### Design
 
   - [Dribbble](https://dribbble.com/)
-  -
 
   ## Images
 
