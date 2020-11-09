@@ -121,7 +121,7 @@ I hope you find it useful!
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
 
-  ### [Can I Use] (https://caniuse.com/)
+  ### [Can I Use](https://caniuse.com/)
 
   ### PostCSS
 
