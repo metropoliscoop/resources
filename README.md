@@ -130,6 +130,14 @@ I hope you find it useful!
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  
+  ### Bash
+
+  - [The Bash Guide](https://guide.bash.academy/)
+
+  ### Terminal
+
+  - [Terminal for beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
 ## Design Patterns
 
@@ -189,6 +197,11 @@ I hope you find it useful!
   ### Browserlist
 
   - [Browserlist](https://github.com/browserslist/browserslist)
+  
+  ### Regex
+
+  - [RegExr](https://regexr.com/)
+  - [Regex Tester](https://regex101.com/)
 
   ### Sandbox
 
