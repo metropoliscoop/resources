@@ -106,6 +106,38 @@ I hope you find it useful!
 
   - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
+  ### VSCode Plugins
+
+  - Auto Rename Tag
+  - Autoprefixer
+  - Better Comments
+  - Bracket Pair Colorizer 2
+  - Code Spell Checker
+  - Color Picker
+  - Colorize
+  - CSS Peek
+  - docs-markdown
+  - ESLint
+  - GitLens
+  - Import Cost
+  - Intellisense for CSS
+  - Javascript ES6 code snippets
+  - Javascript and Typescript
+  - Live Server
+  - Markdown all in one
+  - Material Icon Theme
+  - Mithrill Emmet
+  - npm
+  - Path Intellisense
+  - Polacode
+  - Prettier
+  - Settings Sync
+  - SVG Viewer
+  - TODO Highlight
+  - Tokyo Night
+  - Visual Studio IntelliCode
+  - vscode-pdf
+
   ### Performance
 
   - [Why does speed matter?](https://web.dev/why-speed-matters/)
