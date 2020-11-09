@@ -95,18 +95,18 @@ I hope you find it useful!
 - [Awesome Resoruces for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 
-## University
+  ## University
 
-- [UOC](https://cv.uoc.edu/webapps/cas/login?service=http://cv.uoc.edu/cgibin/uocapp)
+  - [UOC](https://cv.uoc.edu/webapps/cas/login?service=http://cv.uoc.edu/cgibin/ uocapp)
 
-## Library resources
+  ## Library resources
 
-- [O'Reilly](https://learning.oreilly.com/home/)
+  - [O'Reilly](https://learning.oreilly.com/home/)
 
-## Platforms
+  ## Platforms
 
-- [Free Code Camp](https://www.freecodecamp.org/learn/)
-- [Flavio Copes](https://flaviocopes.com/)
+  - [Free Code Camp](https://www.freecodecamp.org/learn/)
+  - [Flavio Copes](https://flaviocopes.com/)
 
 # :wrench: Tools
 
