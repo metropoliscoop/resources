@@ -83,9 +83,11 @@ I hope you find it useful!
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
 ## Interviews
-
+### Awesome Lists:
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+###  Lists:
+
 
 ## Tools
 
@@ -127,7 +129,23 @@ I hope you find it useful!
 
 ## Frontend
 
+- [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
+- [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack)
+- [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
+- [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome Vue](https://github.com/vuejs/awesome-vue)
+- [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
 ## Backend
+
+- [Awesome Nginx](https://github.com/fcambus/nginx-resources)
+- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
+- [Awesome API](https://github.com/TonnyL/Awesome_APIs)
+- [Awesome REST](https://github.com/marmelab/awesome-rest)
+- [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
+- [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
+- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
 ## Databases
 
