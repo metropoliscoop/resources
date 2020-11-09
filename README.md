@@ -7,6 +7,17 @@ I hope you find it useful!
 ## Index
 
 0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
+1. [Interviews]()
+2. [Tools]()
+3. [SO & Terminal]()
+4. [Design Patterns]()
+5. [HTML]()
+6. [CSS]()
+7. [Javascript]()
+8. [Frontend]()
+9. [Backend]()
+10. [Data Bases]()
+11. [Design]()
 
 ## Awesome Lists
 
@@ -25,32 +36,61 @@ I hope you find it useful!
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 - [Awesome ESLint](https://github.com/dustinspecker/awesome-eslint)
+- [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 
-- [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack)
-- [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
-- [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
-  
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
-  
+
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Awesome Javascript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
+- [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
+- [Awesome JQuery](https://github.com/petk/awesome-jquery)
+- [Awesome Typescript](https://github.com/dzharii/awesome-typescript)
+- [Awesome Javascript Testing](https://github.com/MarcL/awesome-javascript-testing)
+- [Awesome Jest](https://github.com/jest-community/awesome-jest)
+
+- [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
+- [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack)
+-
+- [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
+- [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome Vue](https://github.com/vuejs/awesome-vue)
+- [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
 - [Awesome Nginx](https://github.com/fcambus/nginx-resources)
-  
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Awesome API](https://github.com/TonnyL/Awesome_APIs)
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
-  
 - [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
-  
+- [Awesome SQL](https://github.com/danhuss/awesome-sql)
+- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
+- [Awesome Emails](https://github.com/jonathandion/awesome-emails)
+
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
+## Interviews
+
+## Tools
+
+## SO & Terminal
+## Design Patterns
+## HTML
+## CSS
+## Javascript
+## Frontend
+## Backend
+## Data Bases
+## Design
