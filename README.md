@@ -90,32 +90,32 @@ I hope you find it useful!
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-## Student :books:
+# Student :books:
 
 - [Awesome Resoruces for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 
-### University
+## University
 
 - [UOC](https://cv.uoc.edu/webapps/cas/login?service=http://cv.uoc.edu/cgibin/uocapp)
 
-### Library resources
+## Library resources
 
 - [O'Reilly](https://learning.oreilly.com/home/)
 
-### Platforms
+## Platforms
 
 - [Free Code Camp](https://www.freecodecamp.org/learn/)
 - [Flavio Copes](https://flaviocopes.com/)
 
-## Tools :wrench:
+# Tools :wrench:
 
 - [Awesome GIT](https://github.com/dictcp/awesome-git)
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Awesome Bots](https://github.com/invocable/awesome-bots)
 
-  ### GIT
+  ## GIT
 
   - [GitHub](https://github.com/)
   - [Bitbucket](https://bitbucket.org/)
@@ -123,11 +123,11 @@ I hope you find it useful!
   - [Git commands](https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git)
   - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 
-  ### Firefox Developer Edition
+  ## Firefox Developer Edition
 
   - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-  ### VSCode Plugins
+  ## VSCode Plugins
 
   - FiraCode font
   - Auto Rename Tag
@@ -160,7 +160,7 @@ I hope you find it useful!
   - Visual Studio IntelliCode
   - vscode-pdf
 
-  ### Performance
+  ## Performance
 
   - [Why does speed matter?](https://web.dev/why-speed-matters/)
   - [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
@@ -178,57 +178,57 @@ I hope you find it useful!
   - [Throttling](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor/Throttling)
   - [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics)
 
-  ### Markdown
+  ## Markdown
 
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 
-## SO & Terminal :keyboard:
+# SO & Terminal :keyboard:
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
-  ### Bash
+  ## Bash
 
   - [The Bash Guide](https://guide.bash.academy/)
 
-  ### Terminal
+  ## Terminal
 
   - [Terminal for beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
-  ### Ubuntu
+  ## Ubuntu
 
   - [Wireless restore](https://askubuntu.com/questions/1182722/intel-wireless-ac-9462-not-working-w-18-04-lts)
   - [Touchpad restore](https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver)
 
-## Design Patterns :tokyo_tower:
+# Design Patterns :tokyo_tower:
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-## HTML :spider_web:
+# HTML :spider_web:
 
 - [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 
-  ### Boilerplate
+  ## Boilerplate
 
   - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
-## CSS :art:
+# CSS :art:
 
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
 
-  ### Can I Use
+  ## Can I Use
 
   - [Can I Use](https://caniuse.com/)
 
-  ### PostCSS
+  ## PostCSS
 
   - [PostCSS](https://github.com/postcss/postcss)
   - [Autoprefixer](https://github.com/postcss/autoprefixer)
@@ -236,28 +236,28 @@ I hope you find it useful!
   - [Introduction to Autoprefixer](https://css-tricks.com/autoprefixer/)
   - [Autoprefixer Online](https://autoprefixer.github.io/)
 
-  ### Browserling
+  ## Browserling
 
   - [Browserling](https://www.browserling.com/)
 
-  ### Granim JS
+  ## Granim JS
 
   - [Granim JS](https://sarcadass.github.io/granim.js/examples.html)
 
-  ### MJML makes responsive email easy
+  ## MJML makes responsive email easy
 
   - [MJML](https://mjml.io/)
 
-  ### Airbnb style guide
+  ## Airbnb style guide
 
   - [Airbnb style guide](https://github.com/airbnb/css#license)
 
-  ### Grid & Flexbox
+  ## Grid & Flexbox
 
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-## Javascript :spades:
+# Javascript :spades:
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -269,7 +269,7 @@ I hope you find it useful!
 - [Awesome Javascript Testing](https://github.com/MarcL/awesome-javascript-testing)
 - [Awesome Jest](https://github.com/jest-community/awesome-jest)
 
-  ### NPM
+  ## NPM
 
   - [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
   - [NPM](https://www.npmjs.com/)
@@ -282,43 +282,43 @@ I hope you find it useful!
   - [NPX](https://github.com/zkat/npx)
   - [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/)
 
-  ### Yarn
+  ## Yarn
 
   - [Yarn](https://yarnpkg.com/)
 
-  ### Trending of Javascript
+  ## Trending of Javascript
 
   - [Best of JS](https://bestofjs.org/)
 
-  ### Babel
+  ## Babel
 
   - [Babel](https://babeljs.io/)
 
-  ### Jest
+  ## Jest
 
   - [Awesome Jest](https://github.com/jest-community/awesome-jest)
   - [Jest](https://jestjs.io/docs/en/getting-started)
 
-  ### Mocha
+  ## Mocha
 
   - [Mocha](https://mochajs.org/)
 
-  ### Browserlist
+  ## Browserlist
 
   - [Browserlist](https://github.com/browserslist/browserslist)
 
-  ### Regex
+  ## Regex
 
   - [RegExr](https://regexr.com/)
   - [Regex Tester](https://regex101.com/)
 
-  ### Sandbox
+  ## Sandbox
 
   - [CodeSandBox](https://codesandbox.io/)
   - [Repl](https://repl.it/)
   - [Codepen](https://codepen.io/)
 
-  ### Books:
+  ## Books:
 
   - [Eloquent Javascript](https://eloquentjs-es.thedojo.mx/)
   - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -326,19 +326,19 @@ I hope you find it useful!
   - [The Modern Javascript Tutorial](https://javascript.info/)
   - [The Definitive Guide: Javascript](https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Definitive-Guide-6th-Edition.pdf)
 
-  ### Airbnb JavaScript Style Guide
+  ## Airbnb JavaScript Style Guide
 
   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-  ### Master of JavaScript Basic to Advanced
+  ## Master of JavaScript Basic to Advanced
 
   - [Master of JavaScript Basic to Advanced](https://medium.com/@shahaparan2014/master-of-javascript-basic-to-advanced-2019-2d357c21c43)
 
-  ### JavaScript The Right Way
+  ## JavaScript The Right Way
 
   - [JS the Right Way](https://jstherightway.org/es-es/)
 
-## Frontend :hearts:
+# Frontend :hearts:
 
 - [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
@@ -348,7 +348,7 @@ I hope you find it useful!
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
 
-  ### Parcel
+  ## Parcel
 
   - [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
   - [Parcel](https://parceljs.org/getting_started.html)
@@ -356,12 +356,12 @@ I hope you find it useful!
   - [Parcel + Vue](https://www.digitalocean.com/community/tutorials/vuejs-vue-parceljs)
   - [Parcel Tutorial](https://www.digitalocean.com/community/tutorials/tooling-parcel)
 
-  ### Angular
+  ## Angular
 
   - [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
   - [Angular JS](https://angular.io/)
 
-  ### Vue
+  ## Vue
 
   - [Awesome Vue](https://github.com/vuejs/awesome-vue)
   - [Vue JS](https://v3.vuejs.org/)
@@ -371,12 +371,12 @@ I hope you find it useful!
   - [Vue Test Utils](https://vue-test-utils.vuejs.org/v2/guide/introduction.html)
   - [Vue DevTools](https://github.com/vuejs/vue-devtools)
 
-  ### Nuxt
+  ## Nuxt
 
   - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
   - [Nuxt JS](https://nuxtjs.org/)
 
-## Backend :clubs:
+# Backend :clubs:
 
 - [Awesome Nginx](https://github.com/fcambus/nginx-resources)
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
@@ -385,17 +385,17 @@ I hope you find it useful!
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
-## Databases :diamonds:
+# Databases :diamonds:
 
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 
-### MongoDB
+## MongoDB
 
 - [Install MongoDB Ubuntu 20](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-es)
 
-## Deploying :rocket:
+# Deploying :rocket:
 
 - [Github Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
@@ -403,7 +403,7 @@ I hope you find it useful!
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 - [NGINX Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-18-04)
 
-## Design & Media :framed_picture:
+# Design & Media :framed_picture:
 
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
@@ -413,7 +413,7 @@ I hope you find it useful!
   - [Dribbble](https://dribbble.com/)
   -
 
-  ### Images
+  ## Images
 
   - [Unplash - FREE Usable Images](https://unsplash.com/)
   - [Responsive Images - 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
@@ -423,21 +423,21 @@ I hope you find it useful!
   - [Best image format](https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg)
   - [5 steps to speed up your image heavy website](https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966)
 
-  ### Illustrations
+  ## Illustrations
 
   - [unDraw](https://undraw.co/)
 
-  ### Icons
+  ## Icons
 
   - [Flaticon](https://www.flaticon.com/)
   - [Isometric](https://www.flaticon.com/icon-packs/isometric-technology)
   - [Material Design Icons](https://cdn.materialdesignicons.com/1.7.22/)
 
-  ### SVG Backgrounds
+  ## SVG Backgrounds
 
   - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 
-  ### Generators
+  ## Generators
 
   - [Material Palette](https://www.materialpalette.com/)
   - [Neumorphism](https://neumorphism.io/#8e5ba9)
