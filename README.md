@@ -120,6 +120,8 @@ I hope you find it useful!
   - [GitHub](https://github.com/)
   - [Bitbucket](https://bitbucket.org/)
   - [Gitlab](https://about.gitlab.com/)
+  - [Git commands](https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git)
+  - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 
   ### Firefox Developer Edition
 
@@ -175,6 +177,12 @@ I hope you find it useful!
   - [About PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about)
   - [Throttling](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor/Throttling)
   - [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics)
+
+  ### Markdown
+
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 
 ## SO & Terminal
 
@@ -337,10 +345,31 @@ I hope you find it useful!
 
   ### Parcel
 
+  - [Awesome Parcel](https://github.com/parcel-bundler/awesome-parcel)
   - [Parcel](https://parceljs.org/getting_started.html)
   - [Parcel + PostCSS](https://parceljs.org/css.html#postcss)
   - [Parcel + Vue](https://www.digitalocean.com/community/tutorials/vuejs-vue-parceljs)
   - [Parcel Tutorial](https://www.digitalocean.com/community/tutorials/tooling-parcel)
+
+  ### Angular
+
+  - [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
+  - [Angular JS](https://angular.io/)
+
+  ### Vue
+
+  - [Awesome Vue](https://github.com/vuejs/awesome-vue)
+  - [Vue JS](https://v3.vuejs.org/)
+  - [Vue Router](https://next.router.vuejs.org/)
+  - [Vuex](https://next.vuex.vuejs.org/#what-is-a-state-management-pattern)
+  - [Vue CLI](https://cli.vuejs.org/)
+  - [Vue Test Utils](https://vue-test-utils.vuejs.org/v2/guide/introduction.html)
+  - [Vue DevTools](https://github.com/vuejs/vue-devtools)
+
+  ### Nuxt
+
+  - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
+  - [Nuxt JS](https://nuxtjs.org/)
 
 ## Backend
 
@@ -357,11 +386,17 @@ I hope you find it useful!
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 
+### MongoDB
+
+- [Install MongoDB Ubuntu 20](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-es)
+
 ## Deploying
 
 - [Github Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://app.netlify.com/)
+- [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
+- [NGINX Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-18-04)
 
 ## Design & Media
 
