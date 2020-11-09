@@ -8,17 +8,18 @@ I hope you find it useful!
 
 0. [Awesome Lists](https://github.com/ansango/resources#awesome-lists)
 1. [Interviews](https://github.com/ansango/resources#interviews)
-2. [Tools](https://github.com/ansango/resources#tools)
-3. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
-4. [Design Patterns](https://github.com/ansango/resources#design-patterns)
-5. [HTML](https://github.com/ansango/resources#html)
-6. [CSS](https://github.com/ansango/resources#css)
-7. [Javascript](https://github.com/ansango/resources#javascript)
-8. [Frontend](https://github.com/ansango/resources#frontend)
-9. [Backend](https://github.com/ansango/resources#backend)
-10. [Databases](https://github.com/ansango/resources#databasess)
-11. [Deploying](https://github.com/ansango/resources#deploying)
-12. [Design](https://github.com/ansango/resources#design)
+2. [Student](https://github.com/ansango/resources#student)
+3. [Tools](https://github.com/ansango/resources#tools)
+4. [SO & Terminal](https://github.com/ansango/resources#so--terminal)
+5. [Design Patterns](https://github.com/ansango/resources#design-patterns)
+6. [HTML](https://github.com/ansango/resources#html)
+7. [CSS](https://github.com/ansango/resources#css)
+8. [Javascript](https://github.com/ansango/resources#javascript)
+9. [Frontend](https://github.com/ansango/resources#frontend)
+10. [Backend](https://github.com/ansango/resources#backend)
+11. [Databases](https://github.com/ansango/resources#databasess)
+12. [Deploying](https://github.com/ansango/resources#deploying)
+13. [Design](https://github.com/ansango/resources#design)
 
 ## Awesome Lists
 
@@ -89,6 +90,24 @@ I hope you find it useful!
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+## Student
+
+- [Awesome Resoruces for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
+
+### University
+
+- [UOC](https://cv.uoc.edu/webapps/cas/login?service=http://cv.uoc.edu/cgibin/uocapp)
+
+### Library resources
+
+- [O'Reilly](https://learning.oreilly.com/home/)
+
+### Platforms
+
+- [Free Code Camp](https://www.freecodecamp.org/learn/)
+- [Flavio Copes](https://flaviocopes.com/)
+
 ## Tools
 
 - [Awesome GIT](https://github.com/dictcp/awesome-git)
@@ -108,6 +127,7 @@ I hope you find it useful!
 
   ### VSCode Plugins
 
+  - FiraCode font
   - Auto Rename Tag
   - Autoprefixer
   - Better Comments
@@ -181,6 +201,10 @@ I hope you find it useful!
 
 - [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 
+  ### Boilerplate
+
+  - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+
 ## CSS
 
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
@@ -203,6 +227,23 @@ I hope you find it useful!
 
   - [Browserling](https://www.browserling.com/)
 
+  ### Granim JS
+
+  - [Granim JS](https://sarcadass.github.io/granim.js/examples.html)
+
+  ### MJML makes responsive email easy
+
+  - [MJML](https://mjml.io/)
+
+  ### Airbnb style guide
+
+  - [Airbnb style guide](https://github.com/airbnb/css#license)
+
+  ### Grid & Flexbox
+
+  - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 ## Javascript
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
@@ -218,6 +259,7 @@ I hope you find it useful!
   ### NPM
 
   - [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
+  - [NPM](https://www.npmjs.com/)
   - [About NPM](https://docs.npmjs.com/about-npm)
   - [About packages and modules](https://docs.npmjs.com/about-packages-and-modules)
   - [Create a package.json](https://docs.npmjs.com/creating-a-package-json-file)
@@ -226,6 +268,14 @@ I hope you find it useful!
   - [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
   - [NPX](https://github.com/zkat/npx)
   - [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/)
+
+  ### Yarn
+
+  - [Yarn](https://yarnpkg.com/)
+
+  ### Trending of Javascript
+
+  - [Best of JS](https://bestofjs.org/)
 
   ### Babel
 
@@ -262,6 +312,18 @@ I hope you find it useful!
   - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [The Modern Javascript Tutorial](https://javascript.info/)
   - [The Definitive Guide: Javascript](https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Definitive-Guide-6th-Edition.pdf)
+
+  ### Airbnb JavaScript Style Guide
+
+  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+  ### Master of JavaScript Basic to Advanced
+
+  - [Master of JavaScript Basic to Advanced](https://medium.com/@shahaparan2014/master-of-javascript-basic-to-advanced-2019-2d357c21c43)
+
+  ### JavaScript The Right Way
+
+  - [JS the Right Way](https://jstherightway.org/es-es/)
 
 ## Frontend
 
@@ -306,14 +368,36 @@ I hope you find it useful!
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
+  ### Design
+
+  - [Dribbble](https://dribbble.com/)
+  -
+
   ### Images
 
+  - [Unplash - FREE Usable Images](https://unsplash.com/)
   - [Responsive Images - 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
   - [Responsive Images - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
   - [SVG - MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)
   - [Optimize images - Google](https://web.dev/fast/#optimize-your-images)
   - [Best image format](https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg)
+  - [5 steps to speed up your image heavy website](https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966)
 
   ### Illustrations
 
   - [unDraw](https://undraw.co/)
+
+  ### Icons
+
+  - [Flaticon](https://www.flaticon.com/)
+  - [Isometric](https://www.flaticon.com/icon-packs/isometric-technology)
+  - [Material Design Icons](https://cdn.materialdesignicons.com/1.7.22/)
+
+  ### SVG Backgrounds
+
+  - [SVG Backgrounds](https://www.svgbackgrounds.com/)
+
+  ### Generators
+
+  - [Material Palette](https://www.materialpalette.com/)
+  - [Neumorphism](https://neumorphism.io/#8e5ba9)
