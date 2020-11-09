@@ -21,7 +21,7 @@ I hope you find it useful!
 12. [Deploying](https://github.com/ansango/resources#deploying)
 13. [Design](https://github.com/ansango/resources#design)
 
-# Awesome Lists :dark_sunglasses:
+# :dark_sunglasses: Awesome Lists 
 
 - [All Awesome Lists](https://github.com/sindresorhus/awesome)
 
