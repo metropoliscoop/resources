@@ -29,6 +29,7 @@ I hope you find it useful!
 - [Awesome Resoruces for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 
+- [Awesome GIT](https://github.com/dictcp/awesome-git)
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Awesome Bots](https://github.com/invocable/awesome-bots)
@@ -86,13 +87,18 @@ I hope you find it useful!
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-  ### Lists:
-
 ## Tools
 
+- [Awesome GIT](https://github.com/dictcp/awesome-git)
 - [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Awesome Bots](https://github.com/invocable/awesome-bots)
+
+  ### GIT
+
+  - [GitHub](https://github.com/)
+  - [Bitbucket](https://bitbucket.org/)
+  - [Gitlab](https://about.gitlab.com/)
 
 ## SO & Terminal
 
@@ -115,6 +121,13 @@ I hope you find it useful!
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
 
+  ### [Can I Use] (https://caniuse.com/)
+
+  ### PostCSS
+
+  - [PostCSS](https://github.com/postcss/postcss)
+  - [Autoprefixer](https://github.com/postcss/autoprefixer)
+
 ## Javascript
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
@@ -125,6 +138,14 @@ I hope you find it useful!
 - [Awesome Typescript](https://github.com/dzharii/awesome-typescript)
 - [Awesome Javascript Testing](https://github.com/MarcL/awesome-javascript-testing)
 - [Awesome Jest](https://github.com/jest-community/awesome-jest)
+
+  ### Babel
+
+  - [Babel](https://babeljs.io/)
+
+  ### Browserlist
+
+  - [Browserlist](https://github.com/browserslist/browserslist)
 
 ## Frontend
 
