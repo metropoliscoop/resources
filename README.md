@@ -76,18 +76,17 @@ I hope you find it useful!
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
-  
 - [Awesome Emails](https://github.com/jonathandion/awesome-emails)
 
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
 ## Interviews
-### Awesome Lists:
+
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
-###  Lists:
 
+  ### Lists:
 
 ## Tools
 
