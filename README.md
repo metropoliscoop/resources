@@ -317,6 +317,11 @@ I hope you find it useful!
   - [Repl](https://repl.it/)
   - [Codepen](https://codepen.io/)
 
+  ## Typescript
+
+  - [Awesome Typescript](https://github.com/dzharii/awesome-typescript)
+  - [Typescript Node](https://github.com/TypeStrong/ts-node)
+
   ## Books:
 
   - [Eloquent Javascript](https://eloquentjs-es.thedojo.mx/)
